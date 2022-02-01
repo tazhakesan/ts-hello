@@ -5,3 +5,5 @@ var color;
     color[color["blue"] = 1] = "blue";
 })(color || (color = {}));
 var c = color.blue;
+
+var temp = "check commit";
