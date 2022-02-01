@@ -7,3 +7,4 @@ var color;
 var c = color.blue;
 
 var temp = "check commit";
+var temp1;
